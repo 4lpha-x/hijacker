@@ -11,7 +11,7 @@ else
     echo "pip install -r requirements.txt"
     exit
 fi
-cp hijacker.py /usr/bin/hijacker
+cp hijacker.py /data/data/com.termux/files/usr/bin/hijacker
 if [ $? -eq 0 ]; then
     echo "The tool has been installed now run hijacker -h to see the help menu."
     echo "Happy hacking!"
