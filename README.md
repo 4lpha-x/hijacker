@@ -44,8 +44,8 @@ Enable verbose mode.
 hijacker example.com -v
 ```
 
-### Example video
-[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/14)
+### Setup
+[![asciicast](https://asciinema.org/a/BX9KgmIZ9cH93oa5D3e2rZ6fl.svg)](https://asciinema.org/a/BX9KgmIZ9cH93oa5D3e2rZ6fl)
 
 
 #### Made with <3 by HACKE-RC commonly known as RC.
