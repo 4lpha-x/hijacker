@@ -52,6 +52,8 @@ class Scanner():
                     print(f"[v] URL => {url} has status code => {res.status} [v]")
             if res.status==200:
                 pass
+            elif res.status==400 and "twitter.com" in url:
+                pass
             elif re.search("Sorry, that page doesn’t exist!", res.data):
                 print(f"The URL => {link} appears to be dead...")
                 print(f"Results show that URL => {link} is likely a twitter profile.")
