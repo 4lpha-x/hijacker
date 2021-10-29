@@ -1,6 +1,6 @@
 # Hijacker
 A python tool to automatically scan for broken links on a webpage.
-Sugesstions and issues are welcome because i know codes can never be perfect.
+Sugesstions and issues are welcome because I know codes can never be perfect.
 
 ### Note: Please do not use this tool for blackhat hacking purposes. I am not resposible for any damage caused by this tool.
 
