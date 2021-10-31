@@ -36,7 +36,7 @@ class Scanner():
         print("\t\t\t\t\tv1.0")
         print(f"------------ Hijacker by RC ------------")
         print("----- github.com/HACKE-RC/Hijacker -----")
-        print("A python tool to find all the broken links of a page.")
+        print("A python tool to find all the broken links in a page.")
         print("Usage:")
         print("\thijacker [ website ] [ optional args ]")
         print("Optional Arguments:\n\t-v, --verbose\tEnable verbose mode")
